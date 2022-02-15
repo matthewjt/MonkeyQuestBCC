@@ -1,6 +1,6 @@
 ﻿## Interface: 11305
-## Title: MonkeyLibrary v2.11.0c
+## Title: MonkeyLibrary v2.11.0d
 ## Notes: Common files and functions for MonkeyMods.
 ## Notes-deDE: Gemeinsame Dateien und Funktionen fuer MonkeyMods.
-## Author: Trentin, Jim-Bim
+## Author: Trentin, Jim-Bim, Updated for BCC by Mattiam
 MonkeyLibrary.xml
